@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.book-library {
+.book-library h1 {
     background-color: #ffffff;
     padding: 20px;
     margin: 20px auto;
